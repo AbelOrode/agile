@@ -62,5 +62,5 @@ public class addRecordTest {
                 }
         );
         assertEquals("Please specify a valid destination address", exception.getMessage());
-    }//Test case create
+    }
 }
