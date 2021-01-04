@@ -1,6 +1,6 @@
 package agile.Main;
 
-//Testing
+
 import agile.Dao.Database;
 import agile.Entity.Flight;
 import agile.Exception.Exception;
@@ -8,7 +8,7 @@ import agile.Service.ServiceImpl;
 
 import java.util.Scanner;
 
-//Added a Main class
+
 public class Main {
 
 	static Scanner sc = new Scanner (System.in);
